@@ -1,0 +1,7 @@
+Acesse o site: https://circuitverse.org/simulator
+
+1.Va na aba Project
+2.Clique em Import Project
+3.Adicione o arquivo e clique em import
+
+fazendo isso você irá conseguir interagir, editar e visualizar os circuitos e seus subcircuitos
